@@ -4,6 +4,7 @@ the styling of the recipes is based of recipetin eats
 examples are liked below
 https://www.recipetineats.com/vietnamese-pho-recipe/
 https://www.recipetineats.com/spaghetti-bolognese/
+https://www.recipetineats.com/egg-fried-rice/
 
 
 navy ##112942
